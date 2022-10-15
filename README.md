@@ -1,2 +1,2 @@
 # Pose-Estimation
-Pose estimatio of Body Parts using Deep Learning
+Pose estimation of Body Parts using Deep Learning
